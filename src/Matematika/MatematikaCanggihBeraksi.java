@@ -30,7 +30,7 @@ public class MatematikaCanggihBeraksi {
         int hasilPerkalian = matematika.hitungPerkalian(angka1, angka2);
         int hasilModulus = matematika.hitungModulus(angka1, angka2);
 
-        // 30Menampilkan hasil
+        // Menampilkan hasil
         System.out.println("Hasil penjumlahan: " + hasilPenjumlahan);
         System.out.println("Hasil perkalian: " + hasilPerkalian);
         System.out.println("Hasil modulus: " + hasilModulus);
